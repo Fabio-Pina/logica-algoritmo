@@ -5,10 +5,10 @@
 ## Conteudo Aprendido :open_book: :fountain_pen:
 
 1. Variáveis, entrada, saída, processamento, estrutura sequencial, estrutura condicional, estruturas repetitivas, 
-vetores e matrizes. :white_check_mark:
-2. Algoritmos e Lógica de Programação. :white_check_mark:
-3. Adaptar a Lógica de Programaçao por meios dos Algoritmos para outras Linguagens Comerciais. :white_check_mark:
-3. Aplicar os conhecimentos linguagens **C, C++, Python, C# e Java** .:white_check_mark:
+vetores e matrizes. :heavy_check_mark:
+2. Algoritmos e Lógica de Programação. :heavy_check_mark:
+3. Adaptar a Lógica de Programaçao por meios dos Algoritmos para outras Linguagens Comerciais. :heavy_check_mark:
+3. Aplicar os conhecimentos linguagens **C, C++, Python, C# e Java** . :heavy_check_mark:
 
 ## Linguagens de Programação (Comerciais) :keyboard: :computer_mouse:
 
